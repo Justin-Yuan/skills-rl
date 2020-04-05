@@ -3,3 +3,11 @@
 
 # Ada Library Information
 *.ali
+
+
+*.pyc 
+exps/*
+.DS_Store
+__MACOSX/*
+*archived
+*/__pycache__
